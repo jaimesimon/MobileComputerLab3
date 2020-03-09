@@ -8,6 +8,7 @@ import android.content.Intent
 import android.os.Build
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+
 import androidx.room.Room
 import kotlinx.android.synthetic.main.activity_time.*
 import org.jetbrains.anko.doAsync
@@ -15,6 +16,7 @@ import org.jetbrains.anko.toast
 import java.util.*
 
 class TimeActivity : AppCompatActivity() {
+
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

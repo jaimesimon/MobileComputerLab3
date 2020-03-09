@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MobileComputerLab2</string>
+    <string name="search_location">Search...</string>
 </resources>
